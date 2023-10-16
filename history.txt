@@ -1,0 +1,4 @@
+commands execute
+
+1. django-admin startproject project . 
+2. django-admin or django-admin help
